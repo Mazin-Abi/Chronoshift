@@ -1,2 +1,2 @@
 # Chronoshift
-chrono shift is a file
+<b>Chronoshift is EPIC</b>
