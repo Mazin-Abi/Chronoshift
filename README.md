@@ -1,2 +1,2 @@
 # Chronoshift
-<b>Chronoshift is EPIC</b>
+Chronoshift is a website based on Ray Bradbury's book "A Sound of Thunder". It displays various different fictonal safaris that the customer can book. The website was made for a project at CART, the Center for Advanced Research and Technology. 
